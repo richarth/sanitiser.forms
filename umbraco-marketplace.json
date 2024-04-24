@@ -1,0 +1,14 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+    "AuthorDetails": {
+      "Name": "Richard Thompson",
+      "ImageUrl": "https://github.com/richarth.png"
+    },
+    "Category": "",
+    "Description": "",
+    "LicenseTypes": [ "Free" ],
+    "IssueTrackerUrl": "https://github.com/richarth/sanitiser.forms/issues",
+    "PackageType": "Package",
+    "Tags": [],
+    "Title": "Sanitiser.Forms"
+  }
