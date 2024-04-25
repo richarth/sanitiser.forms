@@ -1,14 +1,21 @@
 {
-    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
     "AuthorDetails": {
-      "Name": "Richard Thompson",
-      "ImageUrl": "https://github.com/richarth.png"
+        "Name": "Richard Thompson",
+        "ImageUrl": "https://github.com/richarth.png"
     },
-    "Category": "",
-    "Description": "",
-    "LicenseTypes": [ "Free" ],
+    "Category": "Developer Tools",
+    "Description": "An Umbraco package for automatically clearing out Umbraco Forms submission data and associated files",
+    "LicenseTypes": [
+        "Free"
+    ],
     "IssueTrackerUrl": "https://github.com/richarth/sanitiser.forms/issues",
     "PackageType": "Package",
-    "Tags": [],
+    "Tags": [
+        "GDPR",
+        "Data Protection",
+        "Personal Data",
+        "Privacy"
+    ],
     "Title": "Sanitiser.Forms"
-  }
+}

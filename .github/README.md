@@ -45,7 +45,7 @@ To enable the deletion of form submissions, add the following to your `appsettin
 
 > [!WARNING]
 > N.B. This package is not intended to be run on production sites, only enable sanitization on a development or staging
-environment. Before enabling please ensure you have a backup of your data and a backup of your backup.
+> environment. Before enabling please ensure you have a backup of your data and a backup of your backup.
 >
 >If there is a lot of data then the startup of your site may be delayed. Only enable when necessary.
 
@@ -53,7 +53,8 @@ environment. Before enabling please ensure you have a backup of your data and a 
 
 ### Logo
 
-The package logo uses the [form](https://thenounproject.com/icon/form-6440981/) (by [Icogenix](https://thenounproject.com/creator/asmahameed743/)) icon from
+The package logo uses the [form](https://thenounproject.com/icon/form-6440981/)
+(by [Icogenix](https://thenounproject.com/creator/asmahameed743/)) icon from
 the [Noun Project](https://thenounproject.com), licensed
 under [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/).
 
