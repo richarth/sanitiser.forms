@@ -23,7 +23,7 @@ To enable the package, add the following to your `appsettings.json`:
 ```json
 {
   "Sanitiser": {
-    "Enabled": true
+    "Enable": true
   }
 }
 ```
@@ -35,7 +35,7 @@ To enable the deletion of form submissions, add the following to your `appsettin
 ```json
 {
     "Sanitiser": {
-        "Enabled": true,
+        "Enable": true,
         "UmbracoFormsSanitiser": {
             "Enable": true
         }
