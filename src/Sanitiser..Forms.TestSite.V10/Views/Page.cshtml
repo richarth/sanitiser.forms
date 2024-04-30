@@ -1,0 +1,10 @@
+﻿@inherits UmbracoViewPage<Page>
+@using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
+@{
+    Layout = null;
+}
+
+@if (Model.Form.HasValue)
+{
+    <umb-forms-render form-id="@Model.Form.Value" exclude-scripts="true"/>
+}
